@@ -1,9 +1,9 @@
-# Google Maps Platform WebGL Codelab
+# Google Maps Hackathon submission
 
-This repo contains the project template and finished code for the Google Maps Platform WebGL codelab.
+This repo contains the project submitted to Google Maps' hackahon on Devpost, heavily modified from the original Google Maps Platform WebGL codelab.
 
 ## Getting Started
-To get started with the codelab, download or fork this repo. A starter template is available in `/starter` and the full solution code is available in `/solution`.
+To get started, download or fork this repo and look in `/solution`.
 
 To run the starter or solution apps, run the following from their respective directories:
 
