@@ -20,7 +20,7 @@ import {GLTFLoader} from 'three/examples/jsm/loaders/GLTFLoader.js';
 // Split(['#split-0', '#split-1'])
 
 const apiOptions = {
-  apiKey: 'AIzaSyCqMXI1SZVamqmw_O4RvCryXPivKd4S5Bw'
+  apiKey: 'abcd'
 };
 var map;
 var Highcharts = require('highcharts');
@@ -33,13 +33,13 @@ const mapOptions = {
   "heading": 180,
   "zoom": 18.5,
   "center": { lat: 40.74259319078668, lng: -73.98780008071152 },
-  "mapId": "d55af81411f34bc4",
+  "mapId": "a",
   "disableDefaultUI": true
 }
 
 const mapOptions2 = {
   "center":  { lat: 40.74259319078668, lng: -73.98780008071152 },
-  "mapId": "d55af81411f34bc4",
+  "mapId": "b",
   "disableDefaultUI":false
 }
 
